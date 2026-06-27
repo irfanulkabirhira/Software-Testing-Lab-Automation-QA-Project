@@ -215,7 +215,7 @@ pytest -s tests/ --html=report.html
 | **Error Type** | `AssertionError` |
 | **Priority** | 🔴 High |
 
-![BUG-002](screenshots/FAIL_Profile_field_-_Email_Address_1782545902_ANNOTATED.png)
+![BUG-002](https://github.com/irfanulkabirhira/Software-Testing-Lab-Automation-QA-Project/blob/5c66bbca7a77e21759b4222f7e7dff9fd420cfdc/FAIL_Profile_field_-_Email_Address_1782545902_ANNOTATED.png)
 
 ---
 
