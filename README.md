@@ -181,7 +181,7 @@ pytest tests/test_dashboard.py::test_welcome_heading_shows_username -v
 | **Error Type** | `AssertionError` |
 | **Priority** | 🔴 High |
 
-![BUG-002](screenshots/FAIL_Profile_field_-_Email_Address_1782545902_ANNOTATED.png)
+![BUG-002](https://github.com/irfanulkabirhira/-Software-Testing-Lab-Automation-QA-Project/blob/cdb752052f8ecddf3786485f3abc58415cebebd1/FAIL_Profile_field_-_Email_Address_1782545902_ANNOTATED.png)
 
 ---
 
