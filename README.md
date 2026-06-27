@@ -200,7 +200,7 @@ pytest -s tests/ --html=report.html
 | **Error Type** | `TimeoutException` |
 | **Priority** | 🔴 High |
 
-![BUG-001](screenshots/FAIL_Welcome_back_heading_shows_user_s_name_1782545901_ANNOTATED.png)
+![BUG-001](https://github.com/irfanulkabirhira/Software-Testing-Lab-Automation-QA-Project/blob/36ec21a2b9b79afa064f4895a945f995b0cdbfc8/FAIL_Welcome_back_heading_shows_user's_name_1782545901_ANNOTATED.png)
 
 ---
 
